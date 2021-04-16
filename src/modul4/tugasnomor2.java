@@ -18,7 +18,7 @@ public class tugasnomor2 {
             }
             k = k+1;
         }
-        System.out.println("\nsorted by Yusron:");
+        System.out.println("\nsorted by Muhammad Rizky Ikhval:");
         System.out.println("=== Bubble Sort ===");
         for (int i=0; i<data.length; i++){
             System.out.print(data[i]+" ");

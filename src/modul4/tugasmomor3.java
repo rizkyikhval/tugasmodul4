@@ -16,7 +16,7 @@ public class tugasmomor3 {
             data[i] = data[indeksKecil];
             data[indeksKecil] = temp;
         }
-        System.out.println("\nsorted by Yusron:");
+        System.out.println("\nsorted by Muhammad Rizky Ikhval:");
         System.out.println("=== Selection Sort ===");
         for (int i=0; i<data.length; i++){
             System.out.print(data[i]+" ");
